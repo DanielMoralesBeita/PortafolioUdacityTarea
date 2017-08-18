@@ -39,3 +39,5 @@ python entertainment_center.py
 Or double click  on this file entertainment_center.py  
  
 Then you click in index.html and open in your browser.
+
+View in https://rawgit.com/DanielMoralesBeita/PortafolioUdacityTarea/master/index.html
